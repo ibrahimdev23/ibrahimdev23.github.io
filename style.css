@@ -1,10 +1,12 @@
 :root{
     
-    color: #000000;
+   
  
-  background-color: #000000;
-background-image: url("https://www.transparenttextures.com/patterns/dark-mosaic.png");
-box-sizing: border-box;
+  background-color: #02012e;
+  background-color: #00060f;
+background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+
+  box-sizing: border-box;
 margin: 0;
 padding: 0;
 transition: ease-in-out 0.2s;
