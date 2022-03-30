@@ -2,10 +2,10 @@
     
    
  
-  background-color: #02012e;
+ 
 
-background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-
+    background-color: #042bc9;
+    background-image: url("https://www.transparenttextures.com/patterns/black-linen-2.png");
   box-sizing: border-box;
 margin: 0;
 padding: 0;
@@ -49,9 +49,7 @@ body {
     width: 50%;
 
     /* background-color:#090909; */
-    background-color: transparent;
     
-} */
 
 /* 
 .nav-list {
