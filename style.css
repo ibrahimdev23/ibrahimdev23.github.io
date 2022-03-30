@@ -1,9 +1,6 @@
 :root{
-    
-   
  
- 
-
+    color: #fcfcfc;
     background-color: #042bc9;
     background-image: url("https://www.transparenttextures.com/patterns/black-linen-2.png");
   box-sizing: border-box;
@@ -379,11 +376,7 @@ h3{
 
   /* new page css */
 
-  :root{
-    background-color: #090909;
 
-    color: #fcfcfc;
-}
 
 
 
